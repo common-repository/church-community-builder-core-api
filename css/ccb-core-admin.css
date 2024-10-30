@@ -1,0 +1,42 @@
+.ccb_core_settings-wrapper .spinner {
+	float: left;
+	margin-top: 5px;
+}
+
+.ccb_core_settings ul {
+  list-style: inherit;
+  list-style-position: inside;
+}
+
+.ccb_core_settings form {
+  background-color: white;
+  padding: 5px 30px;
+  margin-top: 12px;
+}
+
+.ccb_core_settings-wrapper .slider-wrapper {
+  width: 250px;
+  float: left;
+  margin-top: 12px;
+  margin-right: 12px;
+}
+
+.ccb_core_settings-wrapper .date-picker-wrapper {
+  display: inline;
+}
+.ccb_core_settings-wrapper .date-picker-wrapper .picker .picker__table {
+  width: inherit;
+}
+.ccb_core_settings-wrapper .date-picker-wrapper .picker .picker__frame {
+  max-width: 500px;
+}
+
+.ccb_core_settings-wrapper fieldset {
+  display: inline;
+}
+
+.ccb_core_settings-wrapper .ccb-core-tooltip {
+  font-size: 24px;
+  margin-left: 24px;
+}
+
